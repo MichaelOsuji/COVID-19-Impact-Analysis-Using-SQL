@@ -3,7 +3,7 @@
 This is a code containing the exploratory analysis of COVID-19 dataset from World Health Organization (WHO). The SQL code contains the following: 
 
 
-## Problems to be solved
+## Questions interested in answering
 - Continents with the highest death count
 - Countries with the highest percentage of population infected
 - Global number of cases of infected individuals.
