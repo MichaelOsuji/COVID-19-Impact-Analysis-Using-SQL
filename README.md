@@ -22,4 +22,4 @@ This is a code containing the exploratory analysis of COVID-19 dataset from Worl
 - According to countries, Austria had the most number of infected population. 
 
 
-After querying of the dataset, the information obtained were visualized on the [Tableau](https://public.tableau.com/app/profile/michael.osuji/vizzes) dashboard
+After querying of the dataset, the information obtained were visualized on the [Tableau](https://public.tableau.com/app/profile/michael.osuji/viz/Book1_16903870985960/Dashboard1) dashboard
